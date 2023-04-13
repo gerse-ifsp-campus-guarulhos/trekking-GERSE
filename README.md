@@ -3,6 +3,13 @@ Desenvolvimento de um robô rádio-controlado/autônomo da moralidade trekking  
 
 <br>
 
+#### **ATIVIDADES**:
+
+As atividades que precisam serem feitas encontram se na aba `Projects`.
+
+
+<br>
+
 
 Alguns dos elemento desse robô serão iguais ao outro [trekking Voyager](https://github.com/pedro-ibs/trekking) principalmente a eletrônica, onde faremos uso do [driver de controle e instrumentação](https://github.com/pedro-ibs/trekking/blob/main/circuito/rasp-sense33):
 
@@ -22,9 +29,12 @@ Também será utilizado protocolos, processo de comunicação e técnicas para c
 
 O robô do GERSE, será em cima de uma estrutura de um automodelo elétrico de rali, que será modificado para atender as especifidades do projeto:
 
+<br>
+
+
+![automodelo](./img/automodelo.jpeg)
+
+<br>
 
 
 
-
-
-   
